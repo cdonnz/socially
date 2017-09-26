@@ -1,5 +1,5 @@
 ///<reference path="../../typings/angular2-meteor.d.ts" />
- 
+ // just a comment
 import {Component, View} from 'angular2/core';
  
 import {NgFor} from 'angular2/common';
